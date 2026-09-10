@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "Luvevaland",
+    "author": "vBook",
+    "version": 6,
+    "source": "https://luvevalandn1.co",
+    "regexp": "(www.)?(lustaveland.com|luvevaland.co|luvevalandn1.co)/(truyen|truyen-tranh|tieu-thuyet)/[^/]+/?$",
+    "description": "Đọc truyện trên trang Luvevaland",
+    "locale": "vi",
+    "type": "novel",
+    "encrypt": true
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  },
+  "config": {
+    "DOMAIN": {
+      "title": "Tên miền",
+      "subtitle": "Địa chỉ trang Luvevaland",
+      "default": "https://luvevalandn1.co",
+      "mode": "input",
+      "format": "text"
+    }
+  }
+}

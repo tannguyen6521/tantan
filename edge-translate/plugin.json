@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Edge Translate",
+    "author": "vBook",
+    "version": 2,
+    "source": "https://edge.microsoft.com/translate",
+    "description": "Dịch truyện bằng Edge Translate",
+    "type": "translate",
+    "encrypt": true
+  },
+  "script": {
+    "language": "language.js",
+    "translate": "translate.js"
+  },
+  "config": {
+    "support_auto_detect": true,
+    "max_line": 1000,
+    "max_length": 50000,
+    "required_api_key": false,
+    "support_url": ""
+  }
+}
