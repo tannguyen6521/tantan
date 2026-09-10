@@ -5,15 +5,15 @@
   },
   "data": [
     {
-      "name": "nHentai-new",
+      "name": "nHentai-extranew",
       "author": "vBook",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/nhentai/plugin.zip",
-      "version": 6,
+      "path": "https://raw.githubusercontent.com/tannguyen6521/tantan/main/nhentai/plugin.zip",
+      "version": 1,
       "type": "comic",
       "locale": "en_US",
       "source": "https://nhentai.net",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/nhentai/icon.png",
-      "description": "Đọc truyện trên trang nHentai",
+      "icon": "https://raw.githubusercontent.com/tannguyen6521/tantan/main/nhentai/icon.png",
+      "description": "Đọc nHentai",
       "tag": "nsfw"
     }
   ]
