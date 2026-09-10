@@ -2,7 +2,7 @@
   "metadata": {
     "name": "nHentai",
     "author": "tantan",
-    "version": 1,
+    "version": 7,
     "source": "https://nhentai.net",
     "regexp": "(www.)?nhentai.net/g/\\d+/?$",
     "description": "Đọc nHentai",
